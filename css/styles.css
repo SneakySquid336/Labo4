@@ -1,0 +1,33 @@
+body
+{
+    background-image: url("/images/cinema.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1
+{
+    color: white;
+    padding-left: 32px;
+}
+ul
+{
+    color: white;
+}
+ul .realisateur
+{
+    color: yellowgreen;
+    font-size: 25px;
+    list-style:none;
+}
+ul .acteur
+{
+    list-style:disc;
+}
+.film
+{
+    list-style-type: upper-latin;
+    font-size: 16px;
+    color: white;
+}
